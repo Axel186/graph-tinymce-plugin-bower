@@ -49,6 +49,13 @@ Configure your TinyMce init settings by adding `external_plugins` and usage of `
   });  
 ```
 
+There are 2 options how to use this plugin:
+
+1. Add SVG tag width graph into your content, I found that is very hard to work with SVG into Tinymce.
+It's hard to align or edit because it contains a lot of tags inside.
+2. Is to upload "Blob file" that plugin returns to your own server and after that add the IMG tag with path to the file.
+If you are using this method, you able to edit the graph and update the changes. (Take a look at the screenshot above).
+
 ## Development
 
 This repository contains only `dist` files, if you want to get the source, check: [graph-tinymce-plugin](https://github.com/Axel186/graph-tinymce-plugin).
