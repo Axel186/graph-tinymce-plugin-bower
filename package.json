@@ -1,0 +1,87 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "graph-tinymce-plugin",
+        "scope": null,
+        "escapedName": "graph-tinymce-plugin",
+        "name": "graph-tinymce-plugin",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/roman/Desktop/test/graph-tinymce-plugin-bower"
+    ]
+  ],
+  "_from": "graph-tinymce-plugin@latest",
+  "_id": "graph-tinymce-plugin@0.0.2",
+  "_inCache": true,
+  "_location": "/graph-tinymce-plugin",
+  "_nodeVersion": "6.11.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/graph-tinymce-plugin-0.0.2.tgz_1501160942679_0.35754215251654387"
+  },
+  "_npmUser": {
+    "name": "axel186",
+    "email": "Axel186@Gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "graph-tinymce-plugin",
+    "scope": null,
+    "escapedName": "graph-tinymce-plugin",
+    "name": "graph-tinymce-plugin",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/graph-tinymce-plugin/-/graph-tinymce-plugin-0.0.2.tgz",
+  "_shasum": "63990f71133da58cc5ec4e09bf2bfc69ed15cfbe",
+  "_shrinkwrap": null,
+  "_spec": "graph-tinymce-plugin",
+  "_where": "/home/roman/Desktop/test/graph-tinymce-plugin-bower",
+  "author": {
+    "name": "Roman Axelrod"
+  },
+  "bugs": {
+    "url": "https://github.com/Axel186/graphs-tinymce-plugin/issues"
+  },
+  "dependencies": {},
+  "description": "Add graphs/diagrams into your content (Tinymce plugin) ",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "63990f71133da58cc5ec4e09bf2bfc69ed15cfbe",
+    "tarball": "https://registry.npmjs.org/graph-tinymce-plugin/-/graph-tinymce-plugin-0.0.2.tgz"
+  },
+  "homepage": "https://github.com/Axel186/graphs-tinymce-plugin#readme",
+  "keywords": [
+    "TinyMCE",
+    "Graph",
+    "Plugin"
+  ],
+  "license": "MIT",
+  "main": "plugin.js",
+  "maintainers": [
+    {
+      "name": "axel186",
+      "email": "Axel186@Gmail.com"
+    }
+  ],
+  "name": "graph-tinymce-plugin",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axel186/graphs-tinymce-plugin.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.4"
+}
